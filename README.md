@@ -5,6 +5,6 @@ PhD Student in Bioinformatics & Computational Biology
 ## 📦 Packages
 - [Sounds of Science](https://github.com/carolinewest/rRNA-analyzer) – Python package that converts fasta sequences to music
 
-## 📄 CV / Contact
-- [CV (PDF)](cv.pdf)
+## 📄 Contact
+- [Website](https://carolinewest319.wixsite.com/carolinewest) 
 - [Email](mailto:caroline.west319@gmail.com)
