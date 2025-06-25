@@ -1,9 +1,10 @@
 # Portfolio
 # Caroline West
-PhD Student in Bioinformatics & Computational Biology
+PhD Student | Bioinformatics & Computational Biology
+M.S. Chemistry
 
 ## 📦 Packages
-- [Sounds of Science](https://gitlab.com/cwest319/sounds_of_science) – Python package that converts fasta sequences to music
+- [Sounds of Science](https://github.com/carolinewest/sounds_of_science/tree/main) – Python package that converts fasta sequences to music
 
 ## 📄 Contact
 - [Website](https://carolinewest319.wixsite.com/carolinewest) 
